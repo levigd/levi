@@ -1,0 +1,33 @@
+.col{
+	border: 1px solid green;
+}
+/*.bord{border: 1px solid green;}*/
+
+.brandname{
+	font-size:1.7em;
+	text-align: center;
+	color : white;
+	text-transform: uppercase;
+}
+.brandtext{
+	text-align: center;
+}
+.brand-button{
+	text-align: center;
+}
+.preview{ height: 576;
+background-image: url(http://s018.radikal.ru/i506/1202/36/6df35f6897e0.jpg);
+ }
+ #bth{
+ 	margin-top: 0.5em;
+ 	border: 1px solid black;
+ 	text-decoration: none;
+
+ }
+ #bth :hover{
+	background-color: grey;
+ }
+.line-one{
+	margin-top: 5em;
+
+ }
